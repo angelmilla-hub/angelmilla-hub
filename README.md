@@ -89,8 +89,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Angelmilla-hub&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelmilla-hub&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -106,7 +106,7 @@
 ## 📫 Contact
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/TU_LINKEDIN](https://www.linkedin.com/in/angel-milla-b89876312/)">
+  <a href="https://www.linkedin.com/in/angel-milla-b89876312/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:angelmilla999@gmail.com">
