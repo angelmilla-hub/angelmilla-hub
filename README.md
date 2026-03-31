@@ -64,8 +64,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Angelmilla-hub&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelmilla-hub&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -80,8 +80,7 @@
 
 ## 📫 Contact
 
-- 💼 LinkedIn: https://www.linkedin.com/
-- 📧 Email: your@email.com
+- 📧 Email: angelmilla999@email.com
 
 ---
 
